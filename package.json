@@ -1,0 +1,29 @@
+{
+  "name": "Tad",
+  "version": "1.1",
+  "description": "Tron Anit Duplicate",
+  "main": "Tad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "duplicate ",
+    "messages",
+    "discord.js"
+  ],
+  "repository": {
+    "type": "Null",
+    "url": "Null"
+  },
+  "bugs": {
+    "url": "Null"
+  },
+  "homepage": "",
+  "author": "Brandon Henness",
+  "license": "",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0"
+  }
+}
