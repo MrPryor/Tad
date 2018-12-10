@@ -4,7 +4,7 @@ var messagelog = [];
 const interval = 60000;
 const warningMessage = "Your message was deleted, Tron does not allow duplicate messages sent within quick succession. Please wait " + interval/1000 + " seconds before reposting.";
 const maxDuplicatesWarning = 2;
-const TOKEN = 'NTIwMzI2Mjg3OTMyMzkxNDQ1.DusPTA.dJBEbiJZ6C-p6y-hg7OTreiR_2k'
+const TOKEN = 'NOU'
 const Discord = require('discord.js')
 const bot = new Discord.Client()
 
